@@ -1,0 +1,35 @@
+map_ents
+{
+	koth_sawmill_omp
+	{
+		"item_grenadepack"
+		{
+			"origin"	"518.6 -99.8 342.4"
+			"angles"	"0 90 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"330 400 295"
+			"angles"	"0 0 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"690 -410 295"
+			"angles"	"0 0 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"2260 -715 -80"
+			"angles"	"0 0 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"-1300 700 -80"
+			"angles"	"0 0 0"
+		}
+	}
+}
