@@ -1,0 +1,68 @@
+map_ents
+{
+	ctf_geothermal_b2
+	{
+		"item_armor"
+		{
+			"origin"	"448 5567 49"
+
+			"angles"	"0 0 0"
+		}
+
+		"item_grenadepack"
+		{
+			"origin"	"1456 3966 405"
+
+			"angles"	"0 0 0"
+		}
+		
+		"item_grenadepack"
+		{
+			"origin"	"2110 2880 150"
+
+			"angles"	"0 0 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"2685 3275 160"
+
+			"angles"	"0 0 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"1538 2480 160"
+
+			"angles"	"0 0 0"
+		}
+
+		"item_grenadepack"
+		{
+			"origin"	"2769 1792 405"
+
+			"angles"	"0 0 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"4380 1627 105"
+
+			"angles"	"0 0 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"3776 191 49"
+
+			"angles"	"0 0 0"
+		}
+
+		"item_armor"
+		{
+			"origin"	"-146 4128 105"
+
+			"angles"	"0 0 0"
+		}
+	}
+}
